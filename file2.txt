@@ -1,0 +1,3 @@
+This is file2.txt
+Try editing this file in a new branch and then merge it back into main.
+
